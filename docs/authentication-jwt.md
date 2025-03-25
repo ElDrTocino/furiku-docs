@@ -40,7 +40,6 @@ El token JWT contiene:
 Ejemplo decodificado:
 
 ```java
-
     {
       "sub": "ana@cafe.com",
       "role": "MANAGER",
