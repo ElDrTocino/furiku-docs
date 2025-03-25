@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfuriku_docs=self.webpackChunkfuriku_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/furiku-docs/blog","blogTitle":"Blog","authorsListPath":"/furiku-docs/blog/authors"}')}}]);

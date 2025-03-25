@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfuriku_docs=self.webpackChunkfuriku_docs||[]).push([[5099],{9673:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/furiku-docs/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
